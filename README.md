@@ -10,3 +10,4 @@ Second one is for manager and other workers:
   -From workers we have valet and waiter page:
     .Waiter can take orders and send it to database.
     .Valet can see available parking spots and change the status of them.
+(Ongoing project)
